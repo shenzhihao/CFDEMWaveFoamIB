@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rm -r ./Make/linux64* ./subModels/Make/linux64*
